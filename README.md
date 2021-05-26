@@ -1,6 +1,13 @@
 # Riel Joseph Bulaybulay - Resume
 
-From here you can see the code repository that I use for my resume
+Code Repository for my Resume.
+
+# Technologies Used
+
+- Vue3
+- Vite
+- VueRouter4
+- TailwindCSS
 
 # Github Page
 
