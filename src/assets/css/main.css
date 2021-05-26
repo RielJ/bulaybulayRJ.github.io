@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+
+@font-face {
+  font-family: raleway;
+  src: url('../fonts/Raleway.ttf');
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: raleway;
+  height: 100vh;
+  min-height: 100vh !important;
+  margin: 0;
+}
+
+@tailwind utilities;
