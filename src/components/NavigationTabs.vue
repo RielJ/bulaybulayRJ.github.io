@@ -1,10 +1,12 @@
 <template>
-  <div class="flex space-x-4">
-    <router-link class="text-lg font-extrabold" to="/">Home</router-link>
-    <router-link class="text-lg font-extrabold" to="/about">About</router-link>
-    <router-link class="text-lg font-extrabold" to="/resume"
-      >Resume</router-link
+  <div class="flex space-x-9">
+    <router-link class="text-lg font-bold" to="/">Home</router-link>
+    <router-link class="text-lg font-bold" to="/about">About</router-link>
+    <router-link class="text-lg font-bold" to="/resume">Resume</router-link>
+    <router-link class="text-lg font-bold" to="/repositories"
+      >Repositories</router-link
     >
+    <router-link class="text-lg font-bold" to="/contact">Contact</router-link>
   </div>
 </template>
 
@@ -15,10 +17,10 @@ export default {}
 <style scoped>
 a {
   position: relative;
-  color: rgb(0, 0, 0, 0.8);
+  color: rgb(255, 255, 255, 0.8);
 }
 a:hover {
-  color: rgb(0, 0, 0, 1);
+  color: rgb(255, 255, 255, 1);
 }
 a:after {
   background: none repeat scroll 0 0 transparent;

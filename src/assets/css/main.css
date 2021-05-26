@@ -9,6 +9,8 @@
 html {
   scroll-behavior: smooth;
   font-family: raleway;
+  background: #121212;
+  color: white;
   height: 100vh;
   min-height: 100vh !important;
   margin: 0;
