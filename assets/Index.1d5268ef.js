@@ -1,0 +1,1 @@
+import{o as s,c as e,b as a}from"./vendor.7b639676.js";const n={},r={class:"p-10"},t=a("div",{class:"heading uppercase font-sans text-xl"},"Resume",-1);n.render=function(a,n,o,c,d,i){return s(),e("div",r,[t])};export default n;
